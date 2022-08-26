@@ -1,0 +1,175 @@
+
+body{
+    font-family: 'Alumni Sans Collegiate One', sans-serif;
+    font-family: 'Montserrat', sans-serif;
+}
+
+/* main styles */
+.main{
+display: flex;
+flex-direction: row-reverse;
+background-color: beige;
+width: 1200px;
+margin: 0 auto;
+}
+
+
+.maiin{
+    background-color: beige;
+    margin-left: 40px;
+    box-shadow: 13px 6px 20px rgba(0, 0, 0, 0.1);
+    margin-right: 30px;
+}
+
+
+
+/* abaut styles */
+.about{
+margin-left: 30px;
+margin-top: 100px;
+}
+/* title styles */
+.title{
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 22px;
+    line-height: 15px;
+    margin-left: 21px;
+    
+}
+
+.title-work{
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 22px;
+    line-height: 15px;
+    margin-left: 6px;
+}
+
+/* .projects styles */
+.projects{
+    margin-bottom: 5px;
+    margin-left: 9px;
+}
+
+.img{
+   margin-top: 40px;
+   margin-bottom: 51px;
+}
+
+.web{
+font-size: medium;
+line-height: normal;
+}
+.name{
+    font-size: xx-large;
+    margin-bottom: 25px;
+    
+}
+
+
+/* .work styles */
+.work{
+    background: beige;
+    padding-top: 30px;
+    padding-bottom: 50px;
+    padding-left:20px;
+    padding-right: 10px;
+
+}
+
+.sidebar{
+    background-color: darksalmon;
+    color: white;
+    
+}
+
+.thech{
+    margin-bottom: 50px;
+    margin-top: 50px;
+    margin-left: 20px;
+  
+}
+
+
+/* education styles */
+.education{
+    margin-left: 40px;
+    margin-top: 1px;
+
+    }
+
+.contacts{
+ margin-left: 20px;
+}
+
+.url{
+    color: black;
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 24px;
+}
+
+.skils{
+    margin-left: 20px;
+}
+
+.tel, .mail{
+    color: moccasin;
+}
+
+
+.thech-skills{
+color: aliceblue;
+}
+.li{
+    color: tomato;
+}
+
+.p{
+    width: 400px;
+}
+
+.company{
+    color: rgb(250, 133, 0);
+    margin-bottom: 1px;
+}
+
+.month{
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 13px;
+    line-height: 15px;
+    color: rgb(77, 77, 77);
+    }
+.national{
+    color: orange;
+}
+.managment{
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 17px;
+    line-height: 17px;
+}
+
+.haha{font-family: 'Montserrat';
+font-style: normal;
+font-weight: 400;
+font-size: 12px;
+line-height: 17px;
+color: rgb(77, 77, 77);
+}
+.hah{
+  color: rgb(158, 135, 32);  
+}
+
+.ul{
+    padding: 0%;
+    margin-left: 22px;
+}
