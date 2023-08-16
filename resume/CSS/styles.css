@@ -1,0 +1,229 @@
+.wrapper {
+  display: flex;
+  flex-direction: row-reverse;
+  background-color: white;
+  width: 1200px;
+  margin: auto;
+  box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+}
+body {
+  background-color: #e5e5e5;
+  padding: 40px;
+  font-family: "Montserrat", sans-serif;
+}
+.name {
+  font-style: normal;
+  font-weight: 700;
+  font-size: 45px;
+  line-height: 55px;
+  color: #000000;
+  margin: 0 0 26px 0;
+}
+
+.main-conyainer-1 {
+  margin: 0 0 64px 0;
+}
+.blue-text {
+  color: #6d9bf5;
+}
+
+.main-contacts-title {
+  font-style: normal;
+  font-weight: 700;
+  font-size: 22px;
+  line-height: 27px;
+  margin: 43px 0 12px 0;
+  padding: 0;
+}
+
+.time-working {
+  font-size: 12px;
+  font-weight: 400;
+  line-height: 15px;
+  letter-spacing: 0em;
+  text-align: left;
+  color: #a8a8a8;
+  margin: 12px 0 107px 0;
+}
+
+.info {
+  padding: 0 0 0 16px;
+  margin: 8px 0 18px 0;
+}
+
+.work-experience-title {
+  font-style: normal;
+  font-weight: 700;
+  font-size: 22px;
+  line-height: 27px;
+  margin: 51px 0 12px 0;
+}
+.Front-End-title {
+  margin: 12px 0 0 0;
+}
+
+/* Main content */
+.main-content {
+  padding-top: 102px;
+  padding-left: 88px;
+  padding-right: 217px;
+  /* 1) padding: 88px; если все стороны имеют одинаковое расстояние   
+  2)padding: 88px 88px 88px 88px по часовой, верх,право,низ,лево; */
+}
+
+/*About me */
+.my-profession {
+  font-style: normal;
+  font-weight: 700;
+  font-size: 14px;
+  line-height: 17px;
+  color: #000000;
+  margin: 0 0 18px 0;
+}
+
+/* Progects */
+
+.time-work {
+  font-size: 12px;
+  font-weight: 400;
+  line-height: 15px;
+  letter-spacing: 0em;
+  text-align: left;
+  color: #a8a8a8;
+  margin: 12px 0 10px 0;
+}
+
+.full-info {
+  margin-left: 40px;
+}
+
+.project-item {
+  font-style: normal;
+  font-weight: 700;
+  font-size: 14px;
+  line-height: 24px;
+  color: #000000;
+}
+.title-text-href {
+  font-style: normal;
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 24px;
+  color: #595959;
+}
+.title-text-hr {
+  font-family: "Montserrat";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 24px;
+  color: #6d9bf5;
+}
+
+.title-text-hreff {
+  font-family: "Montserrat";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 24px;
+  color: #595959;
+}
+
+.bio-point {
+  font-style: normal;
+  font-weight: 700;
+  font-size: 12px;
+  line-height: 22px;
+  color: #595959;
+}
+.bio-title {
+  color: #595959;
+  font-style: normal;
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 24px;
+}
+
+.blue-text2 {
+  color: #6d9bf5;
+  margin: 12px 0 0 0;
+}
+.manegement-title {
+  font-style: normal;
+  font-weight: 700;
+  font-size: 14px;
+  line-height: 17px;
+  color: #000000;
+  margin: 12px 0 0 0;
+}
+.time-working-end {
+  font-size: 12px;
+  font-weight: 400;
+  line-height: 15px;
+  letter-spacing: 0em;
+  text-align: left;
+  color: #a8a8a8;
+  margin: 12px 0 107px 0;
+}
+
+/* sidebar */
+.sidebar {
+  background: #e0ebfe;
+  width: 370px;
+}
+.my-photo {
+  margin-top: 40px;
+}
+.contacts-container,
+.Tech-skills-container {
+  margin-top: 48px;
+  margin-right: 0px;
+  margin-left: 40px;
+  margin-bottom: 0px;
+}
+.sidebar-title {
+  font-style: normal;
+  font-weight: 700;
+  font-size: 22px;
+  line-height: 27px;
+  margin-bottom: 8px;
+}
+
+.contacts-tipe {
+  font-style: normal;
+  font-weight: 700;
+  font-size: 14px;
+  line-height: 24px;
+  margin-right: 6px;
+}
+.contacts-item {
+  margin: 0px;
+}
+.href-contacts {
+  font-style: normal;
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 24px;
+  color: #161d2a;
+}
+.href-contactss {
+  color: #2979ff;
+  font-style: normal;
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 24px;
+}
+.skills-list-item {
+  color: #6d9bf5;
+}
+.skills-list {
+  margin: 0;
+  padding-left: 19px;
+}
+.skill-list-text {
+  font-style: normal;
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 24px;
+  color: #161d2a;
+}
